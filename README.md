@@ -6,6 +6,8 @@ This project can be used as a base for more complex projects like
 - Aid to the blind people by using a camera to detect scenes in front of them.
 - Automatic Captioning can help, make Google Image Search as good as Google Search, as then every image could be first converted into a caption and then search can be performed based on the caption.
 
+# About Dataset 
+Dataset used is Flickr8k Dataset available on kaggle. It have 8K images and every image has 5 captions so that makes it 8000*5 = 40K datapoints.
 
 # References 
 - [https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8]
