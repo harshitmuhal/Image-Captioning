@@ -8,5 +8,5 @@ This project can be used as a base for more complex projects like
 
 
 # References 
-[https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8]
-[https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf]
+- [https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8]
+- [https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf]
