@@ -11,6 +11,25 @@ I trained my model on google colab. This is the most critical part. You need to 
 
 # Sample
 
+<table>
+    <tr>
+      <td><img src='assets/3072172967_630e9c69d0.jpg' height=250px width=280px></td>
+      <td><img src='assets/2943023421_e297f05e11.jpg' height=250px width=280px> </td>
+  </tr>
+
+ <tr>
+  <td>basketball player dribbles the ball</td> 
+  <td>car is driving over a puddle</td> 
+</tr>
+ <tr>
+  <td><img src='assets/2374652725_32f90fa15c.jpg' height=250px width=280px></td>
+  <td><img src='assets/3480051754_18e5802558.jpg' height=250px width=280px></td> 
+</tr>
+<tr><td>dogs are playing in the snow</td>
+  <td>people are standing in front of a white tent</td> 
+</tr>
+  <table>
+  
 # Future scope for the project:
 This project can be used as a base for more complex projects like 
 - Automatic surveillance using CCTV cameras to detect crimes/accidents.
