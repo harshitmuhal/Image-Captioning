@@ -2,7 +2,7 @@
 Image Captioning is generating a caption for a given image using Deep Learning.
 
 # Dataset 
-Dataset used is Flickr8k Dataset available on kaggle. It have 8K images and every image has 5 captions so that makes it 8000*5 = captions.
+Dataset used is Flickr8k Dataset available on kaggle. It have 8K images and every image has 5 captions so that makes it a total of 8000*5 = 40,000 captions.
 
 # Sample Predictions
 
