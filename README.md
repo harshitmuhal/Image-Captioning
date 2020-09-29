@@ -1,4 +1,4 @@
-# Image-Captioning
+# Image Captioning
 Image Captioning is generating a caption for a given image using Deep Learning.
 
 # Dataset 
