@@ -4,14 +4,15 @@ Image Captioning is generating a caption for a given image using Deep Learning.
 # Dataset 
 Dataset used is Flickr8k Dataset available on kaggle. It have 8K images and every image has 5 captions so that makes it a total of 8000*5 = 40,000 captions.
 
+<!--
 # Sample Predictions
-
+-->
+<!--
 <table>
     <tr>
       <td><img src='assets/3072172967_630e9c69d0.jpg' height=250px width=280px></td>
       <td><img src='assets/2943023421_e297f05e11.jpg' height=250px width=280px> </td>
   </tr>
-
  <tr>
   <td>basketball player dribbles the ball</td> 
   <td>car is driving over a puddle</td> 
@@ -24,11 +25,20 @@ Dataset used is Flickr8k Dataset available on kaggle. It have 8K images and ever
   <td>people are standing in front of a white tent</td> 
 </tr>
   <table>
-
+-->
+    
 # Website
 
+# Main Page
+
 <img src='assets/main_page.png'>
-<img src='assets/prediction_page.png>
+
+# Making Predictions
+
+<img src='assets/prediction_page.png'>
+
+# Sample Predictions
+
 <img src='assets/sample_predictions.png'>
 
 # Future scope for the project:
