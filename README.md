@@ -24,7 +24,13 @@ Dataset used is Flickr8k Dataset available on kaggle. It have 8K images and ever
   <td>people are standing in front of a white tent</td> 
 </tr>
   <table>
-  
+
+# Website
+
+<img src='assets/main_page.png'>
+<img src='assets/prediction_page.png>
+<img src='assets/sample_predictions.png'>
+
 # Future scope for the project:
 This project can be used as a base for more complex projects like 
 - Automatic surveillance using CCTV cameras to detect crimes/accidents.
